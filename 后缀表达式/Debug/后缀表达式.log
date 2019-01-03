@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\fan15\desktop\data structure\后缀表达式\源.cpp(25): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+c:\users\fan15\desktop\data structure\后缀表达式\源.cpp(34): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+c:\users\fan15\desktop\data structure\后缀表达式\源.cpp(43): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+  后缀表达式.vcxproj -> C:\Users\fan15\Desktop\Data Structure\后缀表达式\Debug\后缀表达式.exe
